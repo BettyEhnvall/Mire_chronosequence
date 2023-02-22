@@ -6,7 +6,7 @@ July point and mire level NDVI extraction in Google Earth Engine for the years 2
 
 ## Catchment delineation in Whitebox tools
 
-Delineation of total and unique mire catchments using scripts from Whitebox tools. Mire polygons used in the script are provided under the folder "Shapefiles". The script can be run in Whitebox GAT. 
+Delineation of total and unique mire catchments using codes from Whitebox tools. Mire polygons used in the script are provided under the folder "Shapefiles". The script can be run in Whitebox GAT. 
 The flow-pointer map used in the catchment delineation was calculated in Whitebox GAT from a 2 x 2 m DEM prepreossesed as follows:
 
 1. Agricultural streams that are defined in the Swedish property map were first burned 1 m into the DEM. 
