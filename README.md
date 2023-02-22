@@ -2,7 +2,7 @@
 
 ## NDVI scripts in GEE
 
-July point and mire level extraction in Google Earth Engine for the years 2017-2022. Point and polygon shapefiles used in the script are provided in the folder "Shapefiles".
+July point and mire level NDVI extraction in Google Earth Engine for the years 2017-2022. Point and polygon shapefiles used in the script are provided in the folder "Shapefiles".
 
 ## Whitebox tools
 
