@@ -1,5 +1,12 @@
 # Sävar Rising Coastline Mire Chronosequence
 
+## Publications
+
+Title: Catchment controls on boreal mire nutrient status and vegetation patterns
+Authors: Betty Ehnvall, Anneli Ågren, Mats B. Nilsson, Joshua L. Ratcliffe, Koffi Dodji Noumonvi, Matthias Peichl, William Lidberg, Mats G. Öquist
+Affiliation: Department of Forest Ecology and Management, Swedish University of Agricultural Sciences, Skogsmarksgränd 17, 90183 Umeå, Sweden
+Year: 2023
+
 ## NDVI scripts in Google Earth Engine
 
 July point and mire level NDVI extraction in Google Earth Engine for the years 2017-2022. Point and polygon shapefiles used in the script are provided under the folder "Shapefiles".
