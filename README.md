@@ -6,5 +6,5 @@ July point and mire level NDVI extraction in Google Earth Engine for the years 2
 
 ## Whitebox tools
 
-Delineation of total and unique mire catchments using scripts from Whitebox tools. Mire polygons used in the script are provided under the folder "Shapefiles".   
+Delineation of total and unique mire catchments using scripts from Whitebox tools. Mire polygons used in the script are provided under the folder "Shapefiles". The script was run in Whitebox GAT.   
  
