@@ -3,8 +3,11 @@
 ## Publications
 
 Title: Catchment controls on boreal mire nutrient status and vegetation patterns
+
 Authors: Betty Ehnvall, Anneli Ågren, Mats B. Nilsson, Joshua L. Ratcliffe, Koffi Dodji Noumonvi, Matthias Peichl, William Lidberg, Mats G. Öquist
+
 Affiliation: Department of Forest Ecology and Management, Swedish University of Agricultural Sciences, Skogsmarksgränd 17, 90183 Umeå, Sweden
+
 Year: 2023
 
 
