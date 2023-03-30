@@ -24,4 +24,4 @@ The flow-pointer map used in the catchment delineation was calculated in Whitebo
 2. Stream and road intersections were then carved into the DEM to allow water to flow through culverts. 
 3. Sinks were removed from the DEM by applying a breaching algorithm. 
 
-From the mire-corrected DEM, we calculated flow direction and flow accumulation using the deterministic eight-direction flow model. In Ehnvall et al. (2023a) mires in Mires_landscape_level.shp were used, while in Ehnvall et al., (manuscript) mires in "Mires_Savar_chronosequence.shp" were used.
+From the mire-corrected DEM, we calculated flow direction and flow accumulation using the deterministic eight-direction flow model. In Ehnvall et al. (2023) mires in Mires_landscape_level.shp were used, while in Ehnvall et al., (manuscript) mires in "Mires_Savar_chronosequence.shp" were used.
